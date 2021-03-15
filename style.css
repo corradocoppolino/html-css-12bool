@@ -3,8 +3,56 @@
     background-color: #FCC0CB;
 }
 
-.container1 [class*="col-"]{
+.container1 .col-1{
     border: 1px solid black;
     height: 200px;
-    line-height: 200px;
+    padding: 10px;
+    line-height: 180px;
+}
+
+.container1 .col-2{
+    border: 1px solid black;
+    height: 200px;
+    padding: 10px;
+    line-height: 180px;
+}
+
+.container1 .col-6{
+    border: 1px solid black;
+    height: 200px;
+    padding: 10px;
+    line-height: 180px;
+}
+
+.container1 .col-8{
+    border: 1px solid black;
+    height: 200px;
+    padding: 10px;
+    line-height: 180px;
+}
+
+.container1 .col-12{
+    border: 1px solid black;
+    height: 200px;
+    padding: 10px;
+    line-height: 180px;
+}
+
+.container2 .col-6{
+    border: 1px solid white;
+    height: 180px;
+    line-height: 180px;
+}
+
+.container2 .col-2{
+    border: 1px solid white;
+    height: 180px;
+    line-height: 10px;
+    padding-top: 85px;
+}
+
+.container2 .col-8{
+    border: 1px solid white;
+    height: 180px;
+    line-height: 180px;
 }
